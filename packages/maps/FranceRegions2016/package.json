@@ -1,5 +1,5 @@
 {
-  "name": "@react-jvectormap/franceregions2016",
+  "name": "@mostafawaheed00/react-jvectormap-franceregions2016",
   "version": "1.0.1",
   "main": "dist/index.js",
   "sideEffects": false,

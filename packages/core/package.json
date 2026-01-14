@@ -1,5 +1,5 @@
 {
-  "name": "@react-jvectormap/core",
+  "name": "@mostafawaheed00/react-jvectormap-core",
   "version": "1.0.4",
   "description": "> TODO: description",
   "author": "Mor Kadosh <kadoshms@gmail.com>",
@@ -37,7 +37,7 @@
     "webpack-bundle-analyzer": "^4.5.0"
   },
   "dependencies": {
-    "@react-jvectormap/lib": "^1.0.3",
+    "@mostafawaheed00/react-jvectormap-lib": "^1.0.3",
     "classnames": "^2.3.1"
   }
 }

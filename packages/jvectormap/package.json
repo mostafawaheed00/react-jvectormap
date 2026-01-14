@@ -1,5 +1,5 @@
 {
-  "name": "@react-jvectormap/lib",
+  "name": "@mostafawaheed00/react-jvectormap-lib",
   "version": "1.0.3",
   "main": "jquery-jvectormap.min.js",
   "types": "index.d.ts",
@@ -13,6 +13,6 @@
     "access": "public"
   },
   "dependencies": {
-    "@react-jvectormap/jquery-mousewheel": "^1.0.2"
+    "@mostafawaheed00/react-jvectormap-jquery-mousewheel": "^1.0.2"
   }
 }
