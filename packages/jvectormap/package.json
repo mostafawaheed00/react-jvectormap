@@ -7,7 +7,7 @@
   "license": "(AGPL OR Commercial)",
   "author": "Kirill Lebedev <echo.bjornd@gmail.com>",
   "scripts": {
-    "build": "./build.sh"
+    "build": "node build.js"
   },
   "publishConfig": {
     "access": "public"
