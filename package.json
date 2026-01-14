@@ -2,7 +2,7 @@
   "name": "@mostafawaheed00/react-jvectormap",
   "version": "1.0.1",
   "main": "index.js",
-  "private": true,
+  "private": false,
   "repository": "https://github.com/mostafawaheed00/react-jvectormap.git",
   "author": "Mostafa Waheed <waheedmostafa00@gmail.com>",
   "license": "MIT",
