@@ -4,10 +4,13 @@
   "main": "index.js",
   "private": false,
   "repository": "https://github.com/mostafawaheed00/react-jvectormap.git",
-  "author": "Mostafa Waheed <waheedmostafa00@gmail.com>",
+  "author": "Mostafa Waheed <mostafawaheed98@gmail.com>",
   "license": "MIT",
   "description": "A fork of react-jvectormap with fixes for using old eval() in the map-scraper index file and adding missing types.",
-  "keywords": ["fork", "fixed"],
+  "keywords": [
+    "fork",
+    "fixed"
+  ],
   "contributors": [
     {
       "name": "Mor Kadosh",
