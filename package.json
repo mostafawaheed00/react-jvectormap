@@ -1,11 +1,19 @@
 {
-  "name": "react-jvectormap",
-  "version": "1.0.0",
+  "name": "@mostafawaheed00/react-jvectormap",
+  "version": "1.0.1",
   "main": "index.js",
   "private": true,
-  "repository": "git@github.com:kadoshms/react-jvectormap.git",
-  "author": "Mor Kadosh <kadoshms@gmail.com>",
+  "repository": "https://github.com/mostafawaheed00/react-jvectormap.git",
+  "author": "Mostafa Waheed <waheedmostafa00@gmail.com>",
   "license": "MIT",
+  "description": "A fork of react-jvectormap with fixes for using old eval() in the map-scraper index file and adding missing types.",
+  "keywords": ["fork", "fixed"],
+  "contributors": [
+    {
+      "name": "Mor Kadosh",
+      "email": "kadoshms@gmail.com"
+    }
+  ],
   "scripts": {
     "build": "lerna run build --parallel",
     "test": "lerna run test",
@@ -44,7 +52,12 @@
     "@storybook/builder-webpack5": "^6.3.8",
     "@storybook/manager-webpack5": "^6.3.8",
     "@storybook/react": "^6.3.12",
+    "@types/babel__core": "^7.20.5",
+    "@types/babel__generator": "^7.27.0",
+    "@types/babel__template": "^7.4.4",
     "@types/jest": "^27.0.2",
+    "@types/mdast": "^4.0.4",
+    "@types/reach__router": "^1.3.15",
     "@typescript-eslint/eslint-plugin": "^4.29.3",
     "@typescript-eslint/parser": "^4.29.3",
     "babel-loader": "^8.2.2",
@@ -73,6 +86,5 @@
     "webpack-cli": "^4.8.0",
     "webpack-dev-server": "^4.2.1",
     "yarn-audit-fix": "^9.0.10"
-  },
-  "dependencies": {}
+  }
 }

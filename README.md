@@ -4,6 +4,13 @@
 
 [![npm version](https://badge.fury.io/js/@react-jvectormap%2Fcore.svg)](https://badge.fury.io/js/@react-jvectormap%2Fcore)
 
+## Fork Information
+
+This is a maintained fork of `react-jvectormap` created to address specific issues in the original library:
+
+1.  **Security Fix**: Replaced unsafe `eval()` usage in the `map-scraper` script with a safer `new Function` implementation using dependency injection.
+2.  **Type Definitions**: Added missing valid type definitions for dependencies like `mdast` and `reach__router`.
+
 ## About
 
 A simple wrapper for [jvectormap](http://jvectormap.com/)
