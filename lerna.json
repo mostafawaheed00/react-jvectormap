@@ -4,7 +4,7 @@
     "packages/maps/*"
   ],
   "useWorkspaces": true,
-  "npmClient": "yarn",
+  "npmClient": "npm",
   "version": "independent",
   "command": {
     "publish": {
